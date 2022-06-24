@@ -1,0 +1,15 @@
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/11 - pizza-delivery/pizza-delivery/bin/Debug/net6.0/pizza-delivery
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/11 - pizza-delivery/pizza-delivery/bin/Debug/net6.0/pizza-delivery.deps.json
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/11 - pizza-delivery/pizza-delivery/bin/Debug/net6.0/pizza-delivery.runtimeconfig.json
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/11 - pizza-delivery/pizza-delivery/bin/Debug/net6.0/pizza-delivery.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/11 - pizza-delivery/pizza-delivery/bin/Debug/net6.0/pizza-delivery.pdb
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/11 - pizza-delivery/pizza-delivery/obj/Debug/net6.0/pizza-delivery.csproj.AssemblyReference.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/11 - pizza-delivery/pizza-delivery/obj/Debug/net6.0/pizza-delivery.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/11 - pizza-delivery/pizza-delivery/obj/Debug/net6.0/pizza-delivery.AssemblyInfoInputs.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/11 - pizza-delivery/pizza-delivery/obj/Debug/net6.0/pizza-delivery.AssemblyInfo.cs
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/11 - pizza-delivery/pizza-delivery/obj/Debug/net6.0/pizza-delivery.csproj.CoreCompileInputs.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/11 - pizza-delivery/pizza-delivery/obj/Debug/net6.0/pizza-delivery.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/11 - pizza-delivery/pizza-delivery/obj/Debug/net6.0/refint/pizza-delivery.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/11 - pizza-delivery/pizza-delivery/obj/Debug/net6.0/pizza-delivery.pdb
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/11 - pizza-delivery/pizza-delivery/obj/Debug/net6.0/pizza-delivery.genruntimeconfig.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/11 - pizza-delivery/pizza-delivery/obj/Debug/net6.0/ref/pizza-delivery.dll
